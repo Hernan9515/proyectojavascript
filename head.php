@@ -20,10 +20,9 @@
           <a href="index.html"><img src="img/logotipo.png" alt="logotipo" width="370px" height="60px"></a>
         </div>
         <div class="links">
-          <a href="#" class="link">Inicio</a>
+          <a href="index.php" class="link">Inicio</a>
           <a href="perfil.php" class="link">Perfil</a>
-          <a href="#" class="link">Servicios</a>
-          <a href="index.html" class="link link--active">Contacto</a>
+          <a href="contacto.php" class="link link--active">Contacto</a>
         </div>
       </div>
     </nav>
